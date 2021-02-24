@@ -1,6 +1,6 @@
 node_modules
 config/
-authentication-log
-heroku-deployment
-heroku-deployment
+authentication-log.txt
+heroku-deployment.txt
+heroku-deployment.txt
 
